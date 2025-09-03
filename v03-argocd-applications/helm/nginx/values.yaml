@@ -2,7 +2,7 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-replicaCount: 4000
+replicaCount: 400
 
 image:
   repository: nginx
